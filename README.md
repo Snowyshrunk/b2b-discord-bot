@@ -1,4 +1,7 @@
-requirments  
+main.py is a bot that uses ! as the prompt  
+main2.py uses / commands whitch the users can see  
+
+requirments    
 
 must have the below installed  
 discord.py `py -3 -m pip install -U discord.py` https://pypi.org/project/discord.py/  
